@@ -1,2 +1,0 @@
-# PBE
-Bahasa Pemrograman Python
