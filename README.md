@@ -1,2 +1,10 @@
 # PBE
-Bahasa Pemrograman Python
+Projek Aplikasi Jimpitan Berbasis Dekstop
+
+Teknologi yang digunakan :
+- Python
+- Database SQLite
+- Tools VsCode
+
+
+
